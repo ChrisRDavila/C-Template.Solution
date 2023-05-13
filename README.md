@@ -17,6 +17,8 @@ _MS Build_
 
 ## Setup/Installation Requirements
 
+<!-- Going forward, don't forget to include setup instructions in your README for an appsettings.json with a database connection string. -->
+
 * _1. Clone this repo._
 * _8. _create the file appsettings.json, and what code to include in it. We recommend using the above formatting and directing users to replace [YOUR-USERNAME-HERE] and [YOUR-PASSWORD-HERE] with the user's own user and password values._
 * _2. Open your terminal (e.g., Terminal or GitBash) and navigate to this project's production directory called "ProjectFile"._
