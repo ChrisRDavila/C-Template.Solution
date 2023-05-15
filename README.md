@@ -20,6 +20,7 @@ _MS Build_
 <!-- Going forward, don't forget to include setup instructions in your README for an appsettings.json with a database connection string. -->
 
 * _1. Clone this repo._
+* _X. _dotnet add package MySqlConnector -v 2.2.0_
 * _8. _create the file appsettings.json, and what code to include in it. We recommend using the above formatting and directing users to replace [YOUR-USERNAME-HERE] and [YOUR-PASSWORD-HERE] with the user's own user and password values._
 * _2. Open your terminal (e.g., Terminal or GitBash) and navigate to this project's production directory called "ProjectFile"._
 * _3. In the command line, run the command `\$ dotnet run` to compile and execute the console application. Since this is a console application, you'll interact with it through text commands in your terminal._
